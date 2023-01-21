@@ -1,0 +1,8 @@
+type: theory
+files:
+- name: src/Main.scala
+  visible: true
+- name: build.sbt
+  visible: false
+- name: Lambda_Calculus.pdf
+  visible: true

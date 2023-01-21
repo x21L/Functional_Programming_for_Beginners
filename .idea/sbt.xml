@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="converterVersion" value="1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion2/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion2/task1/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion3/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion3/task1/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task1/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task2" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task2/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task3" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion4/task3/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task1/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task2" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task2/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task3" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion5/task3/project" />
+            <option value="$PROJECT_DIR$/Theorie/task1" />
+            <option value="$PROJECT_DIR$/Theorie/task1/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.8.0" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

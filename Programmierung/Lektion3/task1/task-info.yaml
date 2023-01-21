@@ -1,0 +1,17 @@
+type: edu
+files:
+- name: src/Task.scala
+  visible: true
+- name: test/TestSpec.scala
+  visible: false
+- name: build.sbt
+  visible: false
+- name: src/Task2.scala
+  visible: true
+  placeholders:
+  - offset: 101
+    length: 15
+    placeholder_text: /*  prüfe ob number gerade ist */
+  - offset: 285
+    length: 47
+    placeholder_text: /* Welche Zahlen sind  Primzahlen? */

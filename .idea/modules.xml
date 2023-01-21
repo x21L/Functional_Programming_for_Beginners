@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Functional_Programming_for_Beginners.iml" filepath="$PROJECT_DIR$/.idea/modules/Functional_Programming_for_Beginners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Functional_Programming_for_Beginners-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Functional_Programming_for_Beginners-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion2.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion2.task1.iml" group="task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion3.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion3.task1.iml" group="task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion4.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion4.task1.iml" group="task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion4.task1.project.task1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion4.task1.project.task1-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion5.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion5.task1.iml" group="task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion5.task1.project.task1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion5.task1.project.task1-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion5.task2.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion5.task2.iml" group="task2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lektion5.task3.iml" filepath="$PROJECT_DIR$/.idea/modules/Lektion5.task3.iml" group="task3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Theorie.task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Theorie.task1.iml" group="task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Theorie.task1.project.task1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Theorie.task1.project.task1-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.task1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.task1-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.task2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.task2-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.task3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.task3-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task1.project.task1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/task1.project.task1-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task2.iml" filepath="$PROJECT_DIR$/.idea/modules/task2.iml" group="task2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/task2-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task3.iml" filepath="$PROJECT_DIR$/.idea/modules/task3.iml" group="task3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/task3-build.iml" group="sbt-build-modules" />
+    </modules>
+  </component>
+</project>

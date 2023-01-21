@@ -1,0 +1,24 @@
+type: output
+files:
+- name: src/Main.scala
+  visible: true
+  placeholders:
+  - offset: 308
+    length: 14
+    placeholder_text: /* Suche dir eine Domain aus. Vergiss nicht auf  www und die
+      Toplevel Domain*/
+  - offset: 341
+    length: 34
+    placeholder_text: /* Rufe den urlBuilder auf  */
+  - offset: 396
+    length: 13
+    placeholder_text: /* Gibt einen Endpoint an */
+  - offset: 430
+    length: 63
+    placeholder_text: /* Definiere den Parameter */
+- name: build.sbt
+  visible: false
+- name: test/output.txt
+  visible: false
+- name: test/input.txt
+  visible: false

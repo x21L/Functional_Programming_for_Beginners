@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion1/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion1/task1/project" />
             <option value="$PROJECT_DIR$/Programmierung/Lektion2/task1" />
             <option value="$PROJECT_DIR$/Programmierung/Lektion2/task1/project" />
             <option value="$PROJECT_DIR$/Programmierung/Lektion3/task1" />
@@ -24,6 +26,8 @@
             <option value="$PROJECT_DIR$/Programmierung/Lektion5/task2/project" />
             <option value="$PROJECT_DIR$/Programmierung/Lektion5/task3" />
             <option value="$PROJECT_DIR$/Programmierung/Lektion5/task3/project" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion6/task1" />
+            <option value="$PROJECT_DIR$/Programmierung/Lektion6/task1/project" />
             <option value="$PROJECT_DIR$/Theorie/task1" />
             <option value="$PROJECT_DIR$/Theorie/task1/project" />
             <option value="$PROJECT_DIR$/project" />

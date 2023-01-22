@@ -1,0 +1,28 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+- name: test/input.txt
+  visible: false
+- name: src/Main.scala
+  visible: true
+  placeholders:
+  - offset: 593
+    length: 31
+    placeholder_text: /* Gib die Liste der Studenten auf der Konsole aus. */
+  - offset: 647
+    length: 54
+    placeholder_text: /* Lösche die Studenten an der ersten und dritten Position aus
+      der Liste. */
+  - offset: 766
+    length: 31
+    placeholder_text: /* Gib die neue Liste der Studenten aus. */
+  - offset: 157
+    length: 375
+    placeholder_text: /* Füge 4 Studenten in die Liste ein */
+- name: build.sbt
+  visible: false
+- name: src/Student.scala
+  visible: true
+- name: src/Course.scala
+  visible: true

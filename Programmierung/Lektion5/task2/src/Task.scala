@@ -4,6 +4,6 @@ class Task {
     case 0 => "zero"
     case 1 => "one"
     case 2 => "two"
-    case _ => "some other number"
+    case _´=> "some other number"
   }
 }

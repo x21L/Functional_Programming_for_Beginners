@@ -11,8 +11,6 @@ U
 -Programmierung/Lektion3/task1/src/Task2.scala,c/3/c391edea75ad7f8f1063f75c3fb0e5d2cdaf60d1
 a
 1Programmierung/Lektion3/task1/test/TestSpec.scala,8/5/85b27cfb78bd2d8574abf1291c80c9a174ba1df3
-U
-%Programmierung/Lektion4/task1/task.md,9/4/94560f45f3d5254b339b6ffdc87078ec2ef0a5cb
 W
 'Programmierung/Lektion4/task1/build.sbt,1/f/1f9ba93e0b4fd6054756f1332d1c16495215a824
 \
@@ -25,20 +23,14 @@ U
 ,Programmierung/Lektion4/task2/src/Task.scala,c/3/c37341c3fabd0a7e0fa7a3365645eb03655accf9
 \
 ,Programmierung/Lektion3/task1/src/Task.scala,8/f/8f9cdac21149d3c86a5ee5d7f29136e4ff4be43c
-U
-%Programmierung/Lektion5/task1/task.md,0/a/0a3c1614d1de8bd9c4b2a4f2a2814f5e28c3af5c
 \
 ,Programmierung/Lektion5/task1/test/input.txt,7/2/723f939a0af84362718381f5e63a175cf3295107
 ]
 -Programmierung/Lektion5/task1/test/output.txt,3/3/331dacff6e0e5d314d4f0dc3566290e8dcc8e00c
 Q
 !Theorie/task1/Lambda_Calculus.pdf,0/5/05e8e915f478a06be9ed8b761ecb45f658620be1
-E
-Theorie/task1/task.md,6/e/6e8fa52dce6e0b970ef77597eb8f36441cdc60bb
 U
 %Programmierung/Lektion4/task3/task.md,2/6/26f3d8eed61195cebbdb3a57e256b096757a422b
-\
-,Programmierung/Lektion5/task1/src/Main.scala,8/a/8a409c3b39a2d02d31e2414fac97cf244632fa1b
 L
 Theorie/task1/src/Main.scala,5/f/5fdcb79d7375d8ccb87f115cd4199767353fad9b
 \
@@ -65,8 +57,6 @@ U
 %Programmierung/Lektion5/task2/task.md,8/4/84ceff3f76653ed65be70a9bca77acb51ce0c438
 a
 1Programmierung/Lektion5/task2/test/TestSpec.scala,4/a/4ab130635f196829723167508127c5f94e430d5a
-\
-,Programmierung/Lektion5/task2/src/Task.scala,b/9/b9f3a56ce56904c8325a7c88fbd97441abbe1164
 P
  Programmierung/section-info.yaml,9/d/9d159adbc0cd5e9d11d1255faedbeb2bc750bc11
 X
@@ -87,5 +77,3 @@ U
 ,Programmierung/Lektion5/task3/test/input.txt,b/d/bd07ae61a3bdb5419b3832a06ec98c21a218389a
 ]
 -Programmierung/Lektion5/task3/test/output.txt,2/5/25eeabd80b5f09cb4560ad7767d4877bea981da8
-\
-,Programmierung/Lektion5/task3/src/Main.scala,a/e/ae43f74577d1927f7340bc8dcfbccee19bc98895

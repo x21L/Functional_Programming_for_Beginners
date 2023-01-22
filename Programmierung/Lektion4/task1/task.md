@@ -1,5 +1,5 @@
-In dieser Übung soll die Fakulität einer Zahl berechnet werden.
-Genauere Details zu der Fakulität sind in dem nach folgenden Link zu lesen.
+In dieser Übung soll die Fakultät einer Zahl berechnet werden.
+Genauere Details zu der Fakultät sind in dem nach folgenden Link zu lesen.
 
 **Fakulität**
 <br>

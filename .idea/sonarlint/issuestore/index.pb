@@ -20,8 +20,6 @@ a
 U
 %Programmierung/Lektion4/task2/task.md,6/9/69183f0abc840c882c1efedc02cc7cc23ab8ab79
 \
-,Programmierung/Lektion4/task2/src/Task.scala,c/3/c37341c3fabd0a7e0fa7a3365645eb03655accf9
-\
 ,Programmierung/Lektion3/task1/src/Task.scala,8/f/8f9cdac21149d3c86a5ee5d7f29136e4ff4be43c
 \
 ,Programmierung/Lektion5/task1/test/input.txt,7/2/723f939a0af84362718381f5e63a175cf3295107
@@ -39,8 +37,6 @@ U
 -Programmierung/Lektion4/task3/test/output.txt,0/9/096e0501d7b11f0bfb8e603579e409680bba9262
 \
 ,Programmierung/Lektion4/task3/test/input.txt,3/7/37cab396a8b7e4fc702449297d5c047582b54df1
-@
-course-info.yaml,8/1/81db7fbbb03b3e3f063d803783ac0942e85a4031
 H
 project/build.properties,8/6/86c7bed3e63c403cb8322acb81cfb01cb52ebd23
 9
@@ -77,8 +73,6 @@ O
 ,Programmierung/Lektion1/task1/src/Main.scala,2/1/21288441acb223d947d05b1d752e69d4bbee9e0e
 \
 ,Programmierung/Lektion2/task1/src/Main.scala,c/e/ce32b789d179e9c7c743f1c305d63ec3a6f3c4fc
-^
-.Programmierung/Lektion6/task1/src/Course.scala,4/9/498e0e81035e161fd67b199703e6fab433d9dc13
 U
 %Programmierung/Lektion5/task1/task.md,0/a/0a3c1614d1de8bd9c4b2a4f2a2814f5e28c3af5c
 U

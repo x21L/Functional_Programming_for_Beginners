@@ -2,6 +2,16 @@ type: edu
 files:
 - name: src/Task.scala
   visible: true
+  placeholders:
+  - offset: 89
+    length: 6
+    placeholder_text: /* 0 auf Englisch */
+  - offset: 134
+    length: 5
+    placeholder_text: /* 2 auf Englisch  */
+  - offset: 112
+    length: 5
+    placeholder_text: /* 1 auf Englisch  */
 - name: test/TestSpec.scala
   visible: false
 - name: build.sbt

@@ -2,6 +2,23 @@ type: output
 files:
 - name: src/Main.scala
   visible: true
+  placeholders:
+  - offset: 408
+    length: 17
+    placeholder_text: /* Füge die richtigen Parameter für Snapchat ein */
+  - offset: 560
+    length: 18
+    placeholder_text: /* Chats müssen keine Flammen haben; füge auch hier die richtigen
+      Parameter ein */
+  - offset: 912
+    length: 72
+    placeholder_text: /* Bekomme eine Snapchat Benachrichtigung */
+  - offset: 998
+    length: 109
+    placeholder_text: /* Eine Nachricht auf WhatsApp hast du auch erhalten. */
+  - offset: 1121
+    length: 78
+    placeholder_text: /*Jemand hat dir auch ein Meme geschickt*/
 - name: build.sbt
   visible: false
 - name: test/output.txt

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Functional_Programming_for_Beginners,Lektion2.task1,Lektion3.task1,Lektion4.task1,Lektion5.task1,Lektion5.task2,Lektion5.task3,Lektion6.task1,Theorie.task1,task1,task2,task3" />
+    <profile name="sbt 1" modules="Functional_Programming_for_Beginners,Lektion2.task1,Lektion3.task1,Lektion4.task1,Lektion5.task1,Lektion5.task2,Lektion5.task3,Lektion6.task1,Lektion6.task2,Theorie.task1,task1,task2,task3" />
   </component>
 </project>

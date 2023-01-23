@@ -1,4 +1,4 @@
-[warn] scala-library-2.12.17-sources.jar no longer exists at /C:/Users/Sohaib/AppData/Local/Coursier/Cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.17/scala-library-2.12.17-sources.jar
+[warn] scala-library-2.12.17-sources.jar no longer exists at \home\lukas\.var\app\com.jetbrains.IntelliJ-IDEA-Ultimate\cache\coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.17\scala-library-2.12.17-sources.jar
 [debug] not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/home/lukas/IdeaProjects/Functional%20Programming%20for%20Beginners/Programmierung/Lektion1/task1/"), "task1")...
-[debug] Done updating ProjectRef(uri("file:/home/lukas/IdeaProjects/Functional%20Programming%20for%20Beginners/Programmierung/Lektion1/task1/"), "task1")
+[debug] Updating ProjectRef(uri("file:/C:/Users/lukas/IdeaProjects/Functional_Programming_for_Beginners/Programmierung/Lektion1/task1/"), "task1")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/lukas/IdeaProjects/Functional_Programming_for_Beginners/Programmierung/Lektion1/task1/"), "task1")

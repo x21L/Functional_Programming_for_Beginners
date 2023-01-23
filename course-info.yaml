@@ -1,12 +1,12 @@
 type: marketplace
-title: Functional Programming for Beginners
-language: English
+title: Funktionale Programmierung für Beginner
+language: Deutsch
 summary: |-
-  This is an introductory Scala course.
-  - The course will be most beneficial for beginner-level Scala learners.
-  - The course covers core Scala features.
-  - It contains hands-on examples of Scala code implementation and exercises to practice new skills.
-  - The course is based on the author's personal experience in Scala development.
+  Dies ist ein Einführungskurs.
+  - Der Kurs ist vorwiegend für Anfänger gedacht.
+  - Der Kurs deckt die Kernfunktionen von Scala und Konzepte funktionaler Programmierung ab.
+  - Er enthält praktische Beispiele für die Implementierung von Scala-Code und Übungen zum Einüben neuer Fähigkeiten.
+  - Der Kurs wurde im Rahmen der LVA 531.705  Digitale Bildung & Computational Thinking erstellt.
 programming_language: Scala
 environment: sbt
 content:

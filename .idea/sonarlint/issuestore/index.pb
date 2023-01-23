@@ -25,8 +25,6 @@ U
 ,Programmierung/Lektion5/task1/test/input.txt,7/2/723f939a0af84362718381f5e63a175cf3295107
 ]
 -Programmierung/Lektion5/task1/test/output.txt,3/3/331dacff6e0e5d314d4f0dc3566290e8dcc8e00c
-Q
-!Theorie/task1/Lambda_Calculus.pdf,0/5/05e8e915f478a06be9ed8b761ecb45f658620be1
 U
 %Programmierung/Lektion4/task3/task.md,2/6/26f3d8eed61195cebbdb3a57e256b096757a422b
 \

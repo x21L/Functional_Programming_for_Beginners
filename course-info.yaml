@@ -1,6 +1,6 @@
 type: marketplace
 title: Funktionale Programmierung für Beginner
-language: Deutsch
+language: German
 summary: |-
   Dies ist ein Einführungskurs.
   - Der Kurs ist vorwiegend für Anfänger gedacht.
@@ -10,5 +10,5 @@ summary: |-
 programming_language: Scala
 environment: sbt
 content:
-- Theorie
+- Section. Theorie
 - Programmierung
